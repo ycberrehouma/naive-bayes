@@ -1,3 +1,5 @@
+To check the output along with some explanantions and graphs, open <b>Project Documentation.docx</> 
+
 Implement Naive Bayes Classifier from scratch to predict if a person makes over 50K a year. Again, you cant use an API that implements Naive Bayes, but implementing intermediate functions as API is fine.
 
 dataset: https://archive.ics.uci.edu/ml/datasets/adult
