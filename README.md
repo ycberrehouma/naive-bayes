@@ -1,4 +1,4 @@
-To check the output along with some explanantions and graphs, open <b>Project Documentation.docx</> 
+<h2>To check the output along with some explanantions and graphs, open <b>Project Documentation.docx</b> </h2>
 
 Implement Naive Bayes Classifier from scratch to predict if a person makes over 50K a year. Again, you cant use an API that implements Naive Bayes, but implementing intermediate functions as API is fine.
 
